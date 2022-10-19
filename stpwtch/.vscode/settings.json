@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "stdlib.h": "c",
+        "string.h": "c",
+        "wingdi.h": "c",
+        "chrono.h": "c",
+        "terminal.h": "c",
+        "conio.h": "c",
+        "windows.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
+}
